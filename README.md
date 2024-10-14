@@ -13,9 +13,12 @@ Estoy emocionado de compartir con todos ustedes mi viaje a través del fascinant
 
 ## 📜 Licencia
 
-https://www.udemy.com/course/javascript-moderno-guia-definitiva-construye-10-proyectos/?couponCode=ST8MT101424
+
 Este repositorio está bajo la licencia [MIT](LICENSE).
 
 ---
 
+Curso : https://www.udemy.com/course/javascript-moderno-guia-definitiva-construye-10-proyectos/?couponCode=ST8MT101424
+
+---
 ¡Gracias por acompañarme en este viaje de aprendizaje! Si tienes alguna sugerencia o comentario, no dudes en abrir
